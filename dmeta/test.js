@@ -1,2 +1,2 @@
-console.log('2022 11 14')
-u_ngrok = 'https://02de-193-176-30-152.eu.ngrok.io/'
+console.log('2023 09 21')
+u_ngrok = 'https://52d8-93-186-144-40.ngrok-free.app/'
